@@ -1,0 +1,2 @@
+# trajectory_calculation
+弾道計算を最適化問題に落とし込んで解いてみるお試しプロジェクト
